@@ -1,15 +1,15 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Nuva! 👋
 
 ### 📌 About Me
-- 🎓 Studying Computer Science at [Your University]
+- 🎓 Studying Computer Science at USF
 - 💻 Passionate about Web Development, Databases, and Software Engineering
 - 🏡 Originally from Tanahu & Kathmandu, Nepal 🇳🇵
 - 🎨 In my free time, I love painting, cooking, watching movies, and hanging out with friends
 
 ### 🚀 My Skills
-- **Programming Languages:** Python, Java, C++, JavaScript, SQL
-- **Web Technologies:** HTML, CSS, PHP, Node.js, PostgreSQL
-- **Tools & Frameworks:** React, Express.js, Git, RISC-V Assembly
+- **Programming Languages:** Python, JavaScript, C/C++, SQL
+- **Web Technologies:** HTML, CSS, PHP, PostgreSQL
+- **Tools & Frameworks:** React, Express.js, Git
 
 ### 📂 My Projects
 - 🐱 [Meow-t & Mingle Café](https://github.com/nuvashrestha/cat-cafe-website) - A cat-themed café reservation system
