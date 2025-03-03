@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm [Your Name]! 👋
 
-<!--
-**nuvashrestha/nuvashrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 About Me
+- 🎓 Studying Computer Science at [Your University]
+- 💻 Passionate about Web Development, Databases, and Software Engineering
+- 🏡 Originally from Tanahu & Kathmandu, Nepal 🇳🇵
+- 🎨 In my free time, I love painting, cooking, watching movies, and hanging out with friends
 
-Here are some ideas to get you started:
+### 🚀 My Skills
+- **Programming Languages:** Python, Java, C++, JavaScript, SQL
+- **Web Technologies:** HTML, CSS, PHP, Node.js, PostgreSQL
+- **Tools & Frameworks:** React, Express.js, Git, RISC-V Assembly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 My Projects
+- 🐱 [Meow-t & Mingle Café](https://github.com/nuvashrestha/cat-cafe-website) - A cat-themed café reservation system
+- 🐍 [Snake Game](https://github.com/nuvashrestha/snake-game) - Classic Snake game using Python
+- 🔄 [Notation Converter](https://github.com/nuvashrestha/notation-converter) - Converts infix, postfix, and prefix expressions
+
+### 📫 Connect with Me!
+- 🌐 [LinkedIn](https://linkedin.com/in/nuva)
