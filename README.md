@@ -3,7 +3,7 @@
 ### About Me
 - Studying Computer Science at USF
 - Passionate about Web Development, Databases, and Software Engineering
-- Originally from Tanahu & Kathmandu, Nepal 🇳🇵
+- Originally from Nepal 🇳🇵
 - In my free time, I love painting, cooking, watching movies, and hanging out with friends
 
 ### My Skills
