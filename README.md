@@ -12,9 +12,8 @@
 - **Tools & Frameworks:** React, Git
 
 ### My Projects
-- [Meow-t & Mingle Café](https://github.com/nuvashrestha/cat-cafe-website) - A cat-themed café reservation system
+- [Meow-t & Mingle Café](https://github.com/nuvashrestha/CatCafe) - A cat-themed café reservation system
 - [Snake Game](https://github.com/nuvashrestha/snake-game) - Classic Snake game using Python
-- [Notation Converter](https://github.com/nuvashrestha/notation-converter) - Converts infix, postfix, and prefix expressions
-
+- [Portfolio Website](https://github.com/nuvashrestha/portfolio) - Personal website to showcase projects
 ### Connect with Me!
 - [LinkedIn](https://linkedin.com/in/nuva)
