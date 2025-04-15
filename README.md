@@ -9,7 +9,7 @@
 ### My Skills
 - **Programming Languages:** Python, JavaScript, C/C++, SQL
 - **Web Technologies:** HTML, CSS, PHP, PostgreSQL
-- **Tools & Frameworks:** React, Express.js, Git
+- **Tools & Frameworks:** React, Git
 
 ### My Projects
 - [Meow-t & Mingle Café](https://github.com/nuvashrestha/cat-cafe-website) - A cat-themed café reservation system
