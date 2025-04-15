@@ -2,8 +2,10 @@
 
 ### About Me
 - Studying Computer Science at USF
-- Passionate about Web Development, Databases, and Software Engineering
+- Passionate about all things Software Development
 - Originally from Nepal 🇳🇵
+- Social Media Chair for NeSA at USF
+- Outreach Chair for Girls Who Code
 - In my free time, I love painting, cooking, watching movies, and hanging out with friends
 
 ### My Skills
@@ -13,7 +15,8 @@
 
 ### My Projects
 - [Meow-t & Mingle Café](https://github.com/nuvashrestha/CatCafe) - A cat-themed café reservation system
-- [Snake Game](https://github.com/nuvashrestha/snake-game) - Classic Snake game using Python
+- [Snake Game](https://github.com/nuvashrestha/SnakeGame) - Classic Snake game using Python
 - [Portfolio Website](https://github.com/nuvashrestha/portfolio) - Personal website to showcase projects
+
 ### Connect with Me!
 - [LinkedIn](https://linkedin.com/in/nuva)
