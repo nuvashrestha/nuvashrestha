@@ -12,8 +12,7 @@ I'm a **Computer Science graduate from the University of South Florida**, passio
 
 - [**FocusFlow**](https://github.com/nuvashrestha/FocusFlow) – Stay focused, stay productive  
 - [**ChefGPT**](https://github.com/nuvashrestha/ChefGPT) – Cook smarter with AI  
-- [**Meow-t & Mingle Café**](https://github.com/nuvashrestha/CatCafe) – A cat-themed café reservation system  
-- [**Snake Game**](https://github.com/nuvashrestha/SnakeGame) – Classic Snake game using Python  
+- [**Meow-t & Mingle Café**](https://github.com/nuvashrestha/CatCafe) – A cat-themed café reservation system    
 - [**Portfolio Website**](https://nuvashrestha.github.io/portfolio/) – Personal website to showcase projects  
 
 ---
